@@ -1,4 +1,4 @@
-# Cat and Mouse Game Project
+# Cat and Mouse Game
 
 The project revolves around simulating a game scenario featuring a cat and a mouse. 
 The primary goal is for the mouse to consume all the cheeses strategically while avoiding capture by the cats. 
